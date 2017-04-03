@@ -1,0 +1,246 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 21, 2017, 10:50:32 PM
+    Author     : edith
+*/
+
+
+
+
+* { 
+    -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+    -moz-box-sizing: border-box; /* Firefox, other Gecko */
+    box-sizing: border-box; 
+}
+
+
+.contactinfo:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.productcontent3:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.productcontent2:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.productcontent1:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+
+.productcontent4{
+    padding-bottom: 0px;
+}
+
+
+.productcontent3{
+    background-color: wheat;
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-left: 70px;
+}
+
+.imagecontent5{
+    float: left;
+    padding: 22px;
+    width: 380px;
+}
+
+.product3{
+    float: left;
+    padding: 5px;
+    width: 780px;
+}
+
+.pro1{
+    color: black;
+    font-weight: bolder;
+    font-size: 18px;
+}
+
+.pro2{
+    color: darkgreen;
+    font-weight: bolder;
+    font-size: 16px;
+}
+
+.p1{
+    font-weight: lighter;
+    font-size: 13px;
+}
+
+.h4s{
+    color: black;
+    font-weight: bolder;
+    font-size: 15px;
+
+}
+
+
+.productcontent1{
+    background-color: white;
+    padding-top: 10px;
+    padding-right: 40px;
+    padding-bottom: 5px;
+    padding-left: 70px;
+}
+
+
+.imagecontent1{
+    float: left;
+    padding: 5px;
+    width: 480px;
+}
+
+.product1{
+    float: left;
+    padding: 5px;
+    width: 450px;
+}
+
+.p2{
+    font-weight: lighter;
+    color: black
+}
+
+.productcontent2{
+    background-color: white;
+    padding-top: 10px;
+    padding-right: 40px;
+    padding-bottom: 10px;
+    padding-left: 70px;
+}
+
+.product2{
+    color: green;
+    float: left;
+    padding: 5px;
+    width: 250px;
+}
+
+.imagecontent2{
+    float: left;
+    padding: 5px;
+    width: 250px;
+}
+
+.imagecontent3{
+    float: left;
+    padding: 5px;
+    width: 400px;
+}
+
+.imagecontent4{
+    float: left;
+    padding: 15px;
+    width: 50px;
+}
+
+.caution{
+    background-color: green;
+    color: white;
+    padding: 0.0025%;
+    text-align: center;
+}
+.contactinfo{
+    background-color: #ff0;
+    padding-top: 10px;
+    padding-right: 80px;
+    padding-bottom: 10px; 
+    padding-left: 80px;
+}
+
+.h2s{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bolder;
+    text-decoration:  underline green solid;
+
+}
+.h3s{
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.sidebarLeft {
+    width: 25%;
+    float: left;
+    padding: 20px;
+    /*    margin-right: 20px;*/
+}
+
+.sidebarRight {
+    width: 25%;
+    margin-left: 20px;
+    float: left;
+    padding: 20px;	
+}
+
+main{
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+}
+
+input.submit {
+    text-align: center;
+    float: right;
+    color: white;
+    background-color: green;
+    height:25px;
+    width:140px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+input.size{
+    font-size: 15px;
+    width: 280px;
+    height: 34px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+
+}
+
+.facebook{
+    float: left;
+}
+
+.mail{
+    color: white;
+    font-weight: bolder;
+    float: left;
+    border-top: 200px;
+}
+.curve{
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+}
